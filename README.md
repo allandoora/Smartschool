@@ -1,0 +1,2 @@
+# Smartschool
+for students
